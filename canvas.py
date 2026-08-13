@@ -1,6 +1,6 @@
 import tkinter as tk  # Import the Tkinter library for GUI
 from PIL import Image, ImageTk  # Import Image and ImageTk from the PIL library for image handling
-import time  # Import the time module for animation delays
+import time  # Import the time module for animation delays.
 
 # Function to draw a tree on the canvas
 def draw_tree(canvas, x, trunk_width, leaves_width):
