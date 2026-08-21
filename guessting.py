@@ -17,7 +17,7 @@ t.pencolor("black")
 t.speed(0)
 
 
-#first row
+#first row.
 t.goto(-100,-100)
 for x in range(2):
     square("black")
