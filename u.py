@@ -22,7 +22,7 @@ t.goto(-100,-100)
 for x in range(2):
     square("black")
 
-#second row
+#second roww
 t.goto(-100,-80)
 for x in range(1):
     square("black")
