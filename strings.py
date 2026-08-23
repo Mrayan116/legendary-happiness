@@ -6,7 +6,7 @@ def analyze_string(input_str):
     # Convert the input string to Title Case
     title_case_str = input_str.title()
 
-    # Count the number of uppercase and lowercase letters
+    # Count the number of uppercase and lowercase letters.
     for char in input_str:
         if char.isupper():
             uppercase_count += 1
