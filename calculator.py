@@ -3,7 +3,7 @@ import tkinter as tk
 def on_button_click(value):
     # Get the current text in the entry widget
     current = entry.get()
-    # Clear the entry widget
+    # Clear the entry widget.
     entry.delete(0, tk.END)
     
     if value == 'Clear':
