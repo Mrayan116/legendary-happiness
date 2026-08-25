@@ -5,7 +5,7 @@ def metric_to_imperial_length(metric_value):
     return imperial_value
 
 def metric_to_imperial_weight(metric_value):
-    # Conversion factor: 1 kilogram = 2.20462 pounds
+    # Conversion factor: 1 kilogram = 2.20462 pounds.
     imperial_value = metric_value * 2.20462
     return imperial_value
 
