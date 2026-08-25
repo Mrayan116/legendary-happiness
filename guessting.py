@@ -1,6 +1,6 @@
 import turtle
 
-def square(clr):
+def square(clr):#
     t.pendown()
     t.fillcolor(clr)
     t.begin_fill()
