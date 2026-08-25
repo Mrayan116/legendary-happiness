@@ -1,5 +1,5 @@
 def analyze_string(input_str):
-    # Initialize counters for uppercase and lowercase letters.
+    # Initialize counters for uppercase and lowercase letters..
     uppercase_count = 0
     lowercase_count = 0
 
