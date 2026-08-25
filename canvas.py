@@ -4,7 +4,7 @@ import time  # Import the time module for animation delays.
 
 # Function to draw a tree on the canvas
 def draw_tree(canvas, x, trunk_width, leaves_width):
-    # Define coordinates for the trunk
+    # Define coordinates for the trunk.
     trunk_left = x - trunk_width/2
     trunk_top = 300
     trunk_right = x + trunk_width/2
