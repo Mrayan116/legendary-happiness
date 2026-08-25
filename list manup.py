@@ -5,7 +5,7 @@ def reverse_string(input_string):
         reversed_str = char + reversed_str  # Build the reversed string character by characters
     return reversed_str
 
-# Task 2: Count Vowels
+# Task 2: Count Vowels.
 def count_vowels(input_string):
     input_string = input_string.lower()  # Convert the input to lowercase for case-insensitivity
     count = 0
