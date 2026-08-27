@@ -7,7 +7,7 @@ def on_button_click(value):
     entry.delete(0, tk.END)
     
     if value == 'Clear':
-        # Clear button pressed, reset the entry widget
+        # Clear button pressed, reset the entry widget.
         entry.insert(tk.END, '')
     elif value == 'C':
         # C button pressed, handle special case 'C=12'
