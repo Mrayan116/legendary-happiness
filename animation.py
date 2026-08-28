@@ -3,7 +3,7 @@ from turtle import *
 
 speed(0)
 
-# Grassssss
+# Grasssssss
 bgcolor("aquamarine4")
 
 # Sky
