@@ -1,4 +1,4 @@
-# Conversion functions
+# Conversion function
 def metric_to_imperial_length(metric_value):
     # Conversion factor: 1 meter = 3.28084 feets
     imperial_value = metric_value * 3.28084
