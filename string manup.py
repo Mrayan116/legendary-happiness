@@ -1,4 +1,4 @@
-# Task 1: Reverse a String
+# Task 1: Reverse a String.
 def reverse_string(input_string):
     reversed_str = ""
     for char in input_string:
